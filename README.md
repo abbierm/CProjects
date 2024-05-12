@@ -1,2 +1,2 @@
 # CProjects
-Notes, Data Structures, Algorithms, and Projects in C
+Notes, data structures, algorithms, and projects in C
